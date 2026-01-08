@@ -31,6 +31,7 @@ SUPPORTED FORMATS:
 - Morse code (basic)
 - Rail Fence
 - Reverse
+- ...
 
 REQUIREMENTS:
 - Windows 7/8/10/11
