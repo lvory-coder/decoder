@@ -16,7 +16,7 @@ FEATURES:
 - Colorful console interface
 
 HOW TO USE:
-1. Double-click RUN_ME.bat or CTFDecoder.exe
+1. Double-click Decoder2.exe
 2. Follow on-screen instructions
 3. Select cipher type or use auto-detect
 4. Enter your encoded text
